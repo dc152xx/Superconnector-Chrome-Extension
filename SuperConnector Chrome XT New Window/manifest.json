@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "SuperConnector for Chrome",
+    "description": "Opens SuperConnector for the web",
+    "version": "1.0",
+    "background": {
+        "service_worker": "background.js"
+    },
+    "action": {
+        "default_icon": "handshake.png"
+    },
+    "permissions": [
+        "tabs",
+        "windows"
+    ]
+}

@@ -16,4 +16,4 @@ How to install SuperConnector for chrome:
 
 SuperConnector Chrome Extension is now loaded on your browser.
 
-To pin the extension, again open the Extensions menu and locate the :handshake: Superconnector for Chrome".  Pin it to your extensions bar.
+To pin the extension, again open the Extensions menu and locate the " :handshake: Superconnector for Chrome".  Pin it to your extensions bar.

@@ -8,4 +8,4 @@ You will receive a prompt the first time to log into the SuperConnector app usin
 
 How to install SuperConnector for chrome:
 1) Download the folder "SuperConnector Chrome XT New Window" to your computer
-2) Open Chrome browser and click on the <img src="https://github.com/dc152xx/Superconnector-Chrome-Extension/assets/48764223/0dfa06f2-7c0d-4f3f-baf0-480ba5c011b3" width="200" height="100">)
+2) Open Chrome browser and click on the <img src="https://github.com/dc152xx/Superconnector-Chrome-Extension/assets/48764223/0dfa06f2-7c0d-4f3f-baf0-480ba5c011b3" width="32" height="32">)
